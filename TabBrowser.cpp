@@ -1,4 +1,4 @@
-// TabBrowser.cpp : main source file for TabBrowser.exe
+ï»¿// TabBrowser.cpp : main source file for TabBrowser.exe
 //
 
 #include "stdafx.h"
@@ -22,7 +22,10 @@
 
 CAppModule _Module;
 
-// “ú–{Œê‚ªÁ‚¦‚½
+// æ—¥æœ¬èªãŒæ¶ˆãˆãŸ
+// rev3 ã§ã™ã‚ˆ
+
+
 int Run(LPTSTR /*lpstrCmdLine*/ = NULL, int nCmdShow = SW_SHOWDEFAULT)
 {
 	CMessageLoop theLoop;
