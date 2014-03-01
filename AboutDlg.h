@@ -1,9 +1,11 @@
-// aboutdlg.h : interface of the CAboutDlg class
+﻿// aboutdlg.h : interface of the CAboutDlg class
 //
 /////////////////////////////////////////////////////////////////////////////
 
 #pragma once
 
+
+// abcd
 class CAboutDlg : public CDialogImpl<CAboutDlg>
 {
 public:
