@@ -22,6 +22,7 @@
 
 CAppModule _Module;
 
+// “ú–{Œê‚ªÁ‚¦‚½
 int Run(LPTSTR /*lpstrCmdLine*/ = NULL, int nCmdShow = SW_SHOWDEFAULT)
 {
 	CMessageLoop theLoop;
