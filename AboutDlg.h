@@ -7,6 +7,7 @@
 
 // abcd
 // defg日本
+// rev3 ですよ
 class CAboutDlg : public CDialogImpl<CAboutDlg>
 {
 public:
