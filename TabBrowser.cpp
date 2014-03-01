@@ -25,6 +25,7 @@ CAppModule _Module;
 // 日本語が消えた
 
 // rev4
+// rev5
 int Run(LPTSTR /*lpstrCmdLine*/ = NULL, int nCmdShow = SW_SHOWDEFAULT)
 {
 	CMessageLoop theLoop;
